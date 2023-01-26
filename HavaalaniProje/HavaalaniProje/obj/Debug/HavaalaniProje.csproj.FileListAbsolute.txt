@@ -1,0 +1,10 @@
+C:\Users\ilbul\source\repos\HavaalaniProje\HavaalaniProje\bin\Debug\HavaalaniProje.exe.config
+C:\Users\ilbul\source\repos\HavaalaniProje\HavaalaniProje\bin\Debug\HavaalaniProje.exe
+C:\Users\ilbul\source\repos\HavaalaniProje\HavaalaniProje\bin\Debug\HavaalaniProje.pdb
+C:\Users\ilbul\source\repos\HavaalaniProje\HavaalaniProje\obj\Debug\HavaalaniProje.csproj.AssemblyReference.cache
+C:\Users\ilbul\source\repos\HavaalaniProje\HavaalaniProje\obj\Debug\HavaalaniProje.Properties.Resources.resources
+C:\Users\ilbul\source\repos\HavaalaniProje\HavaalaniProje\obj\Debug\HavaalaniProje.csproj.GenerateResource.cache
+C:\Users\ilbul\source\repos\HavaalaniProje\HavaalaniProje\obj\Debug\HavaalaniProje.csproj.CoreCompileInputs.cache
+C:\Users\ilbul\source\repos\HavaalaniProje\HavaalaniProje\obj\Debug\HavaalaniProje.exe
+C:\Users\ilbul\source\repos\HavaalaniProje\HavaalaniProje\obj\Debug\HavaalaniProje.pdb
+C:\Users\ilbul\source\repos\HavaalaniProje\HavaalaniProje\obj\Debug\HavaalaniProje.Form1.resources
